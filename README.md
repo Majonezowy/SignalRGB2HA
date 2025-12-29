@@ -61,6 +61,11 @@ SignalAssistant emulates WLED lights to allow <b>SignalRGB</b> to control your s
     <td>Name of the virtual WLED device</td>
     <td>HomeAssistantBridge</td>
   </tr>
+  <tr>
+	  <td>THROTTLE</td>
+	  <td>Delay between sending packets to HA</td>
+	  <td>0.1</td>
+  </tr>
 </table>
 		
 ## Running Locally
